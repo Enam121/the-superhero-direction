@@ -1,0 +1,82 @@
+[
+  {
+    "name": "Bryan Cranston",
+    "age": 65,
+    "gender": "male",
+    "salary": 1200000,
+    "country": "USA",
+    "img": "https://i.ibb.co/vxdKLCp/walterwhite.png"
+  },
+  {
+    "name": "Aaron Paul",
+    "age": 42,
+    "gender": "male",
+    "salary": 1150000,
+    "country": " USA",
+    "img": "https://i.ibb.co/pj2gWHJ/jessipinkman.png"
+  },
+  {
+    "name": "Anna Gunn",
+    "age": 53,
+    "gender": "female",
+    "salary": 1150000,
+    "country": " USA",
+    "img": "https://i.ibb.co/mNJS10Q/annagun.png"
+  },
+  {
+    "name": "Dean Norris",
+    "age": 58,
+    "gender": "male",
+    "salary": 1100000,
+    "country": " USA",
+    "img": "https://i.ibb.co/yXfcqq3/Dean-Norris.png"
+  },
+  {
+    "name": "Jonathan Banks",
+    "age": 74,
+    "gender": "male",
+    "salary": 1170000,
+    "country": "USA",
+    "img": "https://i.ibb.co/5FD2yhp/Jonathan-Banks.png"
+  },
+  {
+    "name": "RJ Mitte",
+    "age": 29,
+    "gender": "male",
+    "salary": 1050000,
+    "country": "USA",
+    "img": "https://i.ibb.co/pZyKkB0/RJ-Mitte.png"
+  },
+  {
+    "name": "Bob Odenkirk",
+    "age": 58,
+    "gender": "male",
+    "salary": 1250000,
+    "country": "USA",
+    "img": "https://i.ibb.co/FWm6rNM/Bob-Odenkirk.png"
+  },
+  {
+    "name": "Betsy Brandt",
+    "age": 48,
+    "gender": "female",
+    "salary": 890000,
+    "country": "USA",
+    "img": "https://i.ibb.co/Fnprfg0/Betsy-Brandt.png"
+  },
+  {
+    "name": "Giancarlo Esposito",
+    "age": 63,
+    "gender": "male",
+    "salary": 1250000,
+    "country": "Denmark",
+    "img": "https://i.ibb.co/JcyBk1h/Giancarlo-Esposito.png"
+  },
+  {
+    "name": "Julia Minesci",
+    "age": 64,
+    "gender": "female",
+    "salary": 950000,
+    "country": "USA",
+    "img": "https://i.ibb.co/TKhsmW8/Julia-Minesci.png"
+  }
+]
