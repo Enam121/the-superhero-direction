@@ -1,5 +1,6 @@
 [
   {
+    "key": "B001",
     "name": "Bryan Cranston",
     "age": 65,
     "gender": "male",
@@ -8,6 +9,7 @@
     "img": "https://i.ibb.co/vxdKLCp/walterwhite.png"
   },
   {
+    "key": "B002",
     "name": "Aaron Paul",
     "age": 42,
     "gender": "male",
@@ -16,6 +18,7 @@
     "img": "https://i.ibb.co/pj2gWHJ/jessipinkman.png"
   },
   {
+    "key": "B003",
     "name": "Anna Gunn",
     "age": 53,
     "gender": "female",
@@ -24,6 +27,7 @@
     "img": "https://i.ibb.co/mNJS10Q/annagun.png"
   },
   {
+    "key": "B004",
     "name": "Dean Norris",
     "age": 58,
     "gender": "male",
@@ -32,6 +36,7 @@
     "img": "https://i.ibb.co/yXfcqq3/Dean-Norris.png"
   },
   {
+    "key": "B005",
     "name": "Jonathan Banks",
     "age": 74,
     "gender": "male",
@@ -40,6 +45,7 @@
     "img": "https://i.ibb.co/5FD2yhp/Jonathan-Banks.png"
   },
   {
+    "key": "B006",
     "name": "RJ Mitte",
     "age": 29,
     "gender": "male",
@@ -48,6 +54,7 @@
     "img": "https://i.ibb.co/pZyKkB0/RJ-Mitte.png"
   },
   {
+    "key": "B007",
     "name": "Bob Odenkirk",
     "age": 58,
     "gender": "male",
@@ -56,6 +63,7 @@
     "img": "https://i.ibb.co/FWm6rNM/Bob-Odenkirk.png"
   },
   {
+    "key": "B008",
     "name": "Betsy Brandt",
     "age": 48,
     "gender": "female",
@@ -64,19 +72,12 @@
     "img": "https://i.ibb.co/Fnprfg0/Betsy-Brandt.png"
   },
   {
+    "key": "B009",
     "name": "Giancarlo Esposito",
     "age": 63,
     "gender": "male",
     "salary": 1250000,
     "country": "Denmark",
     "img": "https://i.ibb.co/JcyBk1h/Giancarlo-Esposito.png"
-  },
-  {
-    "name": "Julia Minesci",
-    "age": 64,
-    "gender": "female",
-    "salary": 950000,
-    "country": "USA",
-    "img": "https://i.ibb.co/TKhsmW8/Julia-Minesci.png"
   }
 ]

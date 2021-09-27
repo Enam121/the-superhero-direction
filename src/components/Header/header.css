@@ -1,0 +1,11 @@
+.text{
+  color: aliceblue;
+  font-weight: 600;
+}
+.text h1{
+font-size: 2.5em;
+margin-bottom: 5px;
+}
+.text h2{
+  font-size: 2em;
+}
